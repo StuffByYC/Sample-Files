@@ -1,0 +1,514 @@
+[
+  {
+    "Questions": "confusion matrix",
+    "Answers": "The confusion matrix is generally a 2x2 table that contains 4 outputs provided by the binary classifier. Various measures, such as error-rate, accuracy, specificity, sensitivity, precision and recall are derived from it."
+  },
+  {
+    "Questions": "Accuracy",
+    "Answers": "Accuracy tells us how often is the classifier correct? Accuracy = ( tp + tn ) / ( tp + tn + fp + fn ). Ideally accuracy must be close to 1."
+  },
+  {
+    "Questions": "Agglomerative Clustering",
+    "Answers": "Agglomerative clustering is also known as bottom-up approach or hierarchical agglomerative clustering (hac). A structure that is more informative than the unstructured set of clusters returned by flat clustering. This clustering algorithm does not require us to prespecify the number of clusters. Bottom-up algorithms treat each data as a singleton cluster at the outset and then successively agglomerates pairs of clusters until all clusters have been merged into a single cluster that contains all data."
+  },
+  {
+    "Questions": "AI",
+    "Answers": "Artificial intelligence (ai) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving."
+  },
+  {
+    "Questions": "Artificial Intelligence",
+    "Answers": "Artificial intelligence (ai) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving."
+  },
+  {
+    "Questions": "Unsupervised learning",
+    "Answers": "Unsupervised learning is where you only have input data ( x ) and no corresponding output variable. It is called unsupervised learning because unlike supervised learning there is no labelled data that means no correct answer or no teacher."
+  },
+  {
+    "Questions": "Association Rule mining",
+    "Answers": "Association rule mining finds interesting associations and relationships among large sets of data items. This rule shows how frequently a itemset occurs in a transaction. A typical example is market based analysis."
+  },
+  {
+    "Questions": "Bagging",
+    "Answers": "Bagging is used when the goal is to reduce the variance of a decision tree classifier. Here the objective is to create several subsets of data from training sample chosen randomly with replacement. Each collection of subset data is used to train their decision trees. As a result, we get an ensemble of different models. Average of all the predictions from different trees are used which is more robust than a single decision tree classifier."
+  },
+  {
+    "Questions": "Bayes theorem",
+    "Answers": "The bayes' theorem is a mathematical formula used to determine the conditional probability of events. Essentially, the bayes' theorem describes the probability of an event based on prior knowledge of the conditions that might be relevant to the event."
+  },
+  {
+    "Questions": "Bayesian Networks",
+    "Answers": "Bayesian network is used to represent the graphical model for probability relationship among a set of variables."
+  },
+  {
+    "Questions": "Bias",
+    "Answers": "Bias is how far are the predicted values from the actual values. If the average predicted values are far off from the actual values then the bias is high. High bias causes algorithm to miss relevant relationship between input and output variable."
+  },
+  {
+    "Questions": "Bias-variance trade off",
+    "Answers": "If the bias of a model is decreased, the variance of the model automatically increases. The vice-versa is also true, that is if the variance of a model decreases, bias starts to increase. Hence, it can be concluded that it is nearly impossible to have a model with no bias or no variance since decreasing one increases the other. This phenomenon is known as the bias-variance trade"
+  },
+  {
+    "Questions": "BN",
+    "Answers": "Bayesian network is used to represent the graphical model for probability relationship among a set of variables."
+  },
+  {
+    "Questions": "Boosting",
+    "Answers": "Boosting is used to create a collection of predictors. In this technique, learners are learned sequentially with early learners fitting simple models to the data and then analysing data for errors. Consecutive trees (random sample) are fit and at every step, the goal is to improve the accuracy from the prior tree. When an input is misclassified by a hypothesis, its weight is increased so that next hypothesis is more likely to classify it correctly. This process converts weak learners into better performing model."
+  },
+  {
+    "Questions": "classification",
+    "Answers": "Classification is the process of predicting the class of given data points. Classes are sometimes called as targets/ labels or categories. Classification predictive modeling is the task of approximating a mapping function (f) from input variables (x) to discrete output variables (y)."
+  },
+  {
+    "Questions": "classifier in machine learning",
+    "Answers": "A classifier in a machine learning is a system that inputs a vector of discrete or continuous feature values and outputs a single discrete value, the class."
+  },
+  {
+    "Questions": "classifier in machine learning?",
+    "Answers": "A classifier in a machine learning is a system that inputs a vector of discrete or continuous feature values and outputs a single discrete value, the class."
+  },
+  {
+    "Questions": "clustering",
+    "Answers": "Clustering is the task of dividing the population or data points into a number of groups such that data points in the same groups are more similar to other data points in the same group and dissimilar to the data points in other groups. It is basically a collection of objects on the basis of similarity and dissimilarity between them."
+  },
+  {
+    "Questions": "data mining",
+    "Answers": "Data mining is the exploration and analysis of large data to discover meaningful patterns and rules. It's considered a discipline under the data science field of study and differs from predictive analytics because it describes historical data, while data mining aims to predict future outcomes."
+  },
+  {
+    "Questions": "data science",
+    "Answers": "Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data."
+  },
+  {
+    "Questions": "decision tree",
+    "Answers": "Decision tree builds regression or classification models in the form of a tree structure. It breaks down a dataset into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes."
+  },
+  {
+    "Questions": "Decision tree",
+    "Answers": "Decision tree builds regression or classification models in the form of a tree structure. It breaks down a dataset into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes."
+  },
+  {
+    "Questions": "Descriptive statistics",
+    "Answers": "It is help to organize data and focus on the main characteristic of the data and it's also provides a summary of he data numerically and graphically. (mean, mode, standard deviation, correlation)"
+  },
+  {
+    "Questions": "Descriptive statistics",
+    "Answers": "It is help to organize data and focus on the main characteristic of the data and it's also provides a summary of he data numerically and graphically. (mean, mode, standard deviation, correlation)"
+  },
+  {
+    "Questions": "Divisive clustering",
+    "Answers": "Divisive clustering is also known as top-down approach. This algorithm also does not require to prespecify the number of clusters. Top-down clustering requires a method for splitting a cluster that contains the whole data and proceeds by splitting clusters recursively until individual data have been splitted into singleton cluster."
+  },
+  {
+    "Questions": "Eager learners",
+    "Answers": "Eager learners construct a classification model based on the given training data before receiving data for classification. It must be able to commit to a single hypothesis that covers the entire instance space. Due to the model construction, eager learners take a long time for train and less time to predict. Ex. Decision tree, naive bayes"
+  },
+  {
+    "Questions": "EDA",
+    "Answers": "Exploratory data analysis : in statistics, exploratory data analysis is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. A statistical model can be used or not, but primarily eda is for seeing what the data can tell us beyond the formal modeling or hypothesis testing task."
+  },
+  {
+    "Questions": "EDA",
+    "Answers": "Exploratory data analysis : in statistics, exploratory data analysis is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. A statistical model can be used or not, but primarily eda is for seeing what the data can tell us beyond the formal modeling or hypothesis testing task."
+  },
+  {
+    "Questions": "ensemble learning",
+    "Answers": "To solve a particular computational program, multiple models such as classifiers or experts are strategically generated and combined. This process is known as ensemble learning."
+  },
+  {
+    "Questions": "Ensemble modeling",
+    "Answers": "Ensemble modeling is a process where multiple diverse models are created to predict an outcome, either by using many different modeling algorithms or using different training data sets. The ensemble model then aggregates the prediction of each base model and results in once final prediction for the unseen data."
+  },
+  {
+    "Questions": "Error rate",
+    "Answers": "Error rate (err) is calculated as the number of all incorrect predictions divided by the total number of the dataset. Error rate = ( fp + fn ) / ( tp +tn + fp + fn ). Ideally error rate must be close to 0."
+  },
+  {
+    "Questions": "Exploration-exploitation",
+    "Answers": "The trade-off between the need to obtain new knowledge and the need to use that knowledge to improve performance is one of the most basic trade-offs in nature, and optimal performance usually requires some balance between exploratory and exploitative behaviors."
+  },
+  {
+    "Questions": "Exploration-exploitation dilemma",
+    "Answers": "The trade-off between the need to obtain new knowledge and the need to use that knowledge to improve performance is one of the most basic trade-offs in nature, and optimal performance usually requires some balance between exploratory and exploitative behaviors."
+  },
+  {
+    "Questions": "Exploratory data analysis",
+    "Answers": "Exploratory data analysis : in statistics, exploratory data analysis is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. A statistical model can be used or not, but primarily eda is for seeing what the data can tell us beyond the formal modeling or hypothesis testing task."
+  },
+  {
+    "Questions": "F1 Score",
+    "Answers": "The f1 score is the 2*((precision*recall)/(precision+recall)). The f1 score is the harmonic mean of the precision and recall.It Is also called the f score or the f measure. To put it in simple terms, the f1 score conveys the balance between the precision and the recall. F1 score = 2tp / ( 2tp + fp + fn )"
+  },
+  {
+    "Questions": "Fall out",
+    "Answers": "It is the ratio of all negative classes predicted incorrectly, that is predicted as positive divided by all the classes actually as negative. It is also called as fall-out. FPR = FP / ( FP + TN )"
+  },
+  {
+    "Questions": "False Negative Ratio",
+    "Answers": "It is also called as the miss rate. FNR = fn / ( fn+tp ). It is the ratio of all positive classes predicted incorrectly that is predicted as negative divided by all the classes actually as positive"
+  },
+  {
+    "Questions": "False negative(FN)",
+    "Answers": "Incorrect negative prediction"
+  },
+  {
+    "Questions": "False Positive Ratio",
+    "Answers": "It is the ratio of all negative classes predicted incorrectly, that is predicted as positive divided by all the classes actually as negative. It is also called as fall-out. FPR = FP / ( FP + TN )"
+  },
+  {
+    "Questions": "False positive(FP)",
+    "Answers": "Incorrect positive prediction"
+  },
+  {
+    "Questions": "FN",
+    "Answers": "Incorrect negative prediction"
+  },
+  {
+    "Questions": "FNR",
+    "Answers": "It is also called as the miss rate. FNR = fn / ( fn+tp ). It is the ratio of all positive classes predicted incorrectly that is predicted as negative divided by all the classes actually as positive"
+  },
+  {
+    "Questions": "FP",
+    "Answers": "Incorrect positive prediction"
+  },
+  {
+    "Questions": "FPR",
+    "Answers": "It is the ratio of all negative classes predicted incorrectly, that is predicted as positive divided by all the classes actually as negative. It is also called as fall-out.FPR = FP / ( FP + TN )"
+  },
+  {
+    "Questions": "Genetic Programming",
+    "Answers": "Genetic programming is one of the two techniques used in machine learning. The model is based on the testing and selecting the best choice among a set of results."
+  },
+  {
+    "Questions": "Hierarchical clustering",
+    "Answers": "Hierarchical clustering analysis is a method of cluster analysis which seeks to build a hierarchy of clusters i.e. tree type structure based on the hierarchy."
+  },
+  {
+    "Questions": "Hit rate",
+    "Answers": "Recall gives us an idea about when it's actually yes, how often does it predict yes. It is also called as sensitivity or recall or hit rate. TPR = tp / ( tp + fn )"
+  },
+  {
+    "Questions": "inferential statistics",
+    "Answers": "It generates the larger data and applies probability theory to draw a conclusion"
+  },
+  {
+    "Questions": "K means",
+    "Answers": "K-means clustering is a type of unsupervised learning, which is used when you have unlabeled data. The goal of this algorithm is to find groups in the data, with the number of groups represented by the variable k. The algorithm works iteratively to assign each data point to one of k groups based on the features that are provided. Data points are clustered based on feature similarity."
+  },
+  {
+    "Questions": "K means",
+    "Answers": "K-means clustering is a type of unsupervised learning, which is used when you have unlabeled data. The goal of this algorithm is to find groups in the data, with the number of groups represented by the variable k. The algorithm works iteratively to assign each data point to one of k groups based on the features that are provided. Data points are clustered based on feature similarity."
+  },
+  {
+    "Questions": "K nearest neighbors",
+    "Answers": "K-nearest neighbors (knn) algorithm uses 'feature similarity' to predict the values of new datapoints which further means that the new data point will be assigned a value based on how closely it matches the points in the training set."
+  },
+  {
+    "Questions": "K-means",
+    "Answers": "K-means clustering is a type of unsupervised learning, which is used when you have unlabeled data. The goal of this algorithm is to find groups in the data, with the number of groups represented by the variable k. The algorithm works iteratively to assign each data point to one of k groups based on the features that are provided. Data points are clustered based on feature similarity."
+  },
+  {
+    "Questions": "K-means",
+    "Answers": "K-means clustering is a type of unsupervised learning, which is used when you have unlabeled data. The goal of this algorithm is to find groups in the data, with the number of groups represented by the variable k. The algorithm works iteratively to assign each data point to one of k groups based on the features that are provided. Data points are clustered based on feature similarity."
+  },
+  {
+    "Questions": "K-means Clustering",
+    "Answers": "K-means clustering is a type of unsupervised learning, which is used when you have unlabeled data. The goal of this algorithm is to find groups in the data, with the number of groups represented by the variable k. The algorithm works iteratively to assign each data point to one of k groups based on the features that are provided. Data points are clustered based on feature similarity."
+  },
+  {
+    "Questions": "K-nearest neighbors",
+    "Answers": "K-nearest neighbors (knn) algorithm uses 'feature similarity' to predict the values of new datapoints which further means that the new data point will be assigned a value based on how closely it matches the points in the training set."
+  },
+  {
+    "Questions": "KNN",
+    "Answers": "K-nearest neighbors (knn) algorithm uses 'feature similarity' to predict the values of new datapoints which further means that the new data point will be assigned a value based on how closely it matches the points in the training set."
+  },
+  {
+    "Questions": "Lazy learners",
+    "Answers": "Lazy learners simply store the training data and wait until a testing data appear. When it does, classification is conducted based on the most related data in the stored training data. Compared to eager learners, lazy learners have less training time but more time in predicting. Ex. k-nearest neighbor"
+  },
+  {
+    "Questions": "Logistic Regression",
+    "Answers": "Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more nominal, ordinal, interval or ratio-level independent variables."
+  },
+  {
+    "Questions": "Logistic regression",
+    "Answers": "Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more nominal, ordinal, interval or ratio-level independent variables."
+  },
+  {
+    "Questions": "machine learning",
+    "Answers": "Machine learning is a branch of computer science which deals with system programming in order to automatically learn and improve with experience."
+  },
+  {
+    "Questions": "Machine learning",
+    "Answers": "Machine learning is a branch of computer science which deals with system programming in order to automatically learn and improve with experience."
+  },
+  {
+    "Questions": "mean",
+    "Answers": "Mean is the average value of the data set."
+  },
+  {
+    "Questions": "mean",
+    "Answers": "Mean is the average value of the data set."
+  },
+  {
+    "Questions": "mean value in statistics",
+    "Answers": "Mean is the average value of the data set."
+  },
+  {
+    "Questions": "median",
+    "Answers": "The middle value from data set"
+  },
+  {
+    "Questions": "median",
+    "Answers": "The middle value from data set"
+  },
+  {
+    "Questions": "median value in statistics",
+    "Answers": "The middle value from data set"
+  },
+  {
+    "Questions": "miss rate",
+    "Answers": "It is also called as the miss rate. FNR = fn / ( fn+tp ). It is the ratio of all positive classes predicted incorrectly that is predicted as negative divided by all the classes actually as positive"
+  },
+  {
+    "Questions": "ML",
+    "Answers": "Machine learning is a branch of computer science which deals with system programming in order to automatically learn and improve with experience."
+  },
+  {
+    "Questions": "Mode",
+    "Answers": "The most repeated value in the data set"
+  },
+  {
+    "Questions": "mode",
+    "Answers": "The most repeated value in the data set"
+  },
+  {
+    "Questions": "Mode value in statistics",
+    "Answers": "The most repeated value in the data set"
+  },
+  {
+    "Questions": "Multiple Linear Regression",
+    "Answers": "Multiple linear regression (mlr), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. The goal of multiple linear regression (mlr) is to model the linear relationship between the explanatory (independent) variables and response (dependent) variable"
+  },
+  {
+    "Questions": "Naive Bayes",
+    "Answers": "A naive bayes classifier is a simple algorithm for classifying data based on bayes' theorem. It is considered to be a supervised machine learning algorithm that belongs to the statistical family of classifiers."
+  },
+  {
+    "Questions": "Natural Language Processing",
+    "Answers": "Natural language processing, usually shortened as nlp, is a branch of artificial intelligence that deals with the interaction between computers and humans using the natural language."
+  },
+  {
+    "Questions": "NLP",
+    "Answers": "Natural language processing, usually shortened as nlp, is a branch of artificial intelligence that deals with the interaction between computers and humans using the natural language."
+  },
+  {
+    "Questions": "null hypothesis",
+    "Answers": "The hypothesis that there is no significant difference between specified populations, any observed difference being due to sampling or experimental error."
+  },
+  {
+    "Questions": "Overfitting",
+    "Answers": "When the complexity of the model is too high as compared to the data that it is trying to learn from, the model is said to “overfit”. In other words, with increasing model complexity, the model tends to fit the noise present in data (eg. Outliers). The model learns the data too well and hence fails to generalize. Overfitting occurs for a model with high variance and low bias."
+  },
+  {
+    "Questions": "P value",
+    "Answers": "When you perform a hypothesis test in statistics, a p-value can help you determine the strength of your results. p-value is a number between 0 and 1. Based on the value it will denote the strength of the results. The claim which is on trial is called null hypothesis. Low p-value (? 0.05) indicates strength against the null hypothesis which means we can reject the null hypothesis. High p-value (? 0.05) indicates strength for the null hypothesis which means we can accept the null hypothesis p-value of 0.05 indicates the hypothesis could go either way."
+  },
+  {
+    "Questions": "p-value",
+    "Answers": "When you perform a hypothesis test in statistics, a p-value can help you determine the strength of your results. p-value is a number between 0 and 1. Based on the value it will denote the strength of the results. The claim which is on trial is called null hypothesis. Low p-value (? 0.05) indicates strength against the null hypothesis which means we can reject the null hypothesis. High p-value (? 0.05) indicates strength for the null hypothesis which means we can accept the null hypothesis p-value of 0.05 indicates the hypothesis could go either way."
+  },
+  {
+    "Questions": "PCA",
+    "Answers": "The main idea of principal component analysis (pca) is to reduce the dimensionality of a data set consisting of many variables correlated with each other, either heavily or lightly, while retaining the variation present in the dataset, up to the maximum extent."
+  },
+  {
+    "Questions": "PCA",
+    "Answers": "The main idea of principal component analysis (pca) is to reduce the dimensionality of a data set consisting of many variables correlated with each other, either heavily or lightly, while retaining the variation present in the dataset, up to the maximum extent."
+  },
+  {
+    "Questions": "Polynomial Linear Regression",
+    "Answers": "It's very similar to the multiple linear regression but at the same time instead of the different variables like x2 x3 x4 and so on x and we have the same variable x1 but it is in a different power."
+  },
+  {
+    "Questions": "positive predictive value",
+    "Answers": "Precision is the number of true positives divided by the number of true positives and false positives. Put another way, it is the number of positive predictions divided by the total number of positive class values predicted. It is also called the positive predictive value (ppv). Precision = tp / ( tp + fp )"
+  },
+  {
+    "Questions": "Precision",
+    "Answers": "Precision is the number of true positives divided by the number of true positives and false positives. Put another way, it is the number of positive predictions divided by the total number of positive class values predicted. It is also called the positive predictive value (ppv). Precision = tp / ( tp + fp )"
+  },
+  {
+    "Questions": "Principal Component Analysis",
+    "Answers": "The main idea of principal component analysis (pca) is to reduce the dimensionality of a data set consisting of many variables correlated with each other, either heavily or lightly, while retaining the variation present in the dataset, up to the maximum extent."
+  },
+  {
+    "Questions": "Random Forest",
+    "Answers": "A random forest is an ensemble technique capable of performing both regression and classification tasks with the use of multiple decision trees and a technique called bootstrap aggregation, commonly known as bagging."
+  },
+  {
+    "Questions": "Recall",
+    "Answers": "Recall gives us an idea about when it's actually yes, how often does it predict yes. It is also called as sensitivity or recall or hit rate. TPR = tp / ( tp + fn )"
+  },
+  {
+    "Questions": "regression",
+    "Answers": "Regression analysis is a form of predictive modelling technique which investigates the relationship between a dependent and independent variable."
+  },
+  {
+    "Questions": "Reinforcement learning",
+    "Answers": "Reinforcement learning is all about making decisions sequentially. In simple words we can say that the output depends on the state of the current input and the next input depends on the output of the previous input"
+  },
+  {
+    "Questions": "Reinforcement learning",
+    "Answers": "Reinforcement learning is the training of machine learning models to make a sequence of decisions. The agent learns to achieve a goal in an uncertain, potentially complex environment. In reinforcement learning, an artificial intelligence faces a game-like situation. The computer employs trial and error to come up with a solution to the problem."
+  },
+  {
+    "Questions": "Sample Bias",
+    "Answers": "It is a type of bias caused by choosing non-random data for statistical analysis"
+  },
+  {
+    "Questions": "sampling",
+    "Answers": "Sampling is a process used in statistical analysis in which a predetermined number of observations are taken from a larger population"
+  },
+  {
+    "Questions": "sampling",
+    "Answers": "Sampling is a process used in statistical analysis in which a predetermined number of observations are taken from a larger population"
+  },
+  {
+    "Questions": "Selection Bias",
+    "Answers": "Selection bias is usually introduced as an error with the sampling and having a selection for analysis that is not properly randomized"
+  },
+  {
+    "Questions": "Sensitivity",
+    "Answers": "Recall gives us an idea about when it's actually yes, how often does it predict yes. It is also called as sensitivity or recall or hit rate. TPR = tp / ( tp + fn )"
+  },
+  {
+    "Questions": "sequence learning",
+    "Answers": "Sequence learning is a method of teaching and learning in a logical manner."
+  },
+  {
+    "Questions": "Simple Linear Regression",
+    "Answers": "Simple linear regression is a statistical method that allows us to summarize and study relationships between two continuous (quantitative) variables"
+  },
+  {
+    "Questions": "Simple Linear Regression?",
+    "Answers": "Simple linear regression is a statistical method that allows us to summarize and study relationships between two continuous (quantitative) variables"
+  },
+  {
+    "Questions": "Specificity",
+    "Answers": "Specificity computes the ratio of negative classes correctly detected. This metric gives how good the model is to recognize a negative class. TNR = tn / ( fp + tn ) . It is also called as specificity."
+  },
+  {
+    "Questions": "standard Deviation",
+    "Answers": "It is a square root of variance"
+  },
+  {
+    "Questions": "standard Deviation in statistics",
+    "Answers": "It is a square root of variance"
+  },
+  {
+    "Questions": "Supervised learning",
+    "Answers": "Supervised learning as the name indicates the presence of a supervisor as a teacher. Basically supervised learning is a learning in which we teach or train the machine using data which is well labeled that means some data is already tagged with the correct answer."
+  },
+  {
+    "Questions": "Support Vector Regression",
+    "Answers": "“support vector machine” (svm) is a supervised machine learning algorithm which can be used for both classification or regression challenges. However,  it is mostly used in classification problems. In the svm algorithm, we plot each data item as a point in n-dimensional space (where n is number of features you have) with the value of each feature being the value of a particular coordinate. Then, we perform classification by finding the hyper-plane that differentiates the two classes very well"
+  },
+  {
+    "Questions": "Support Vector Regression",
+    "Answers": "“support vector machine” (svm) is a supervised machine learning algorithm which can be used for both classification or regression challenges. However,  it is mostly used in classification problems. In the svm algorithm, we plot each data item as a point in n-dimensional space (where n is number of features you have) with the value of each feature being the value of a particular coordinate. Then, we perform classification by finding the hyper-plane that differentiates the two classes very well"
+  },
+  {
+    "Questions": "test set",
+    "Answers": "Test set is used to test the accuracy of the hypotheses generated by the learner, and it is the set of example held back from the learner."
+  },
+  {
+    "Questions": "TN",
+    "Answers": "Correct negative prediction"
+  },
+  {
+    "Questions": "TNR",
+    "Answers": "Specificity computes the ratio of negative classes correctly detected. This metric gives how good the model is to recognize a negative class. TNR = tn / ( fp + tn ) . It is also called as specificity."
+  },
+  {
+    "Questions": "TP",
+    "Answers": "Correct positive prediction"
+  },
+  {
+    "Questions": "TPR",
+    "Answers": "Recall gives us an idea about when it's actually yes, how often does it predict yes. TPR = tp / ( tp + fn )"
+  },
+  {
+    "Questions": "training set",
+    "Answers": "A set of data is used to discover the potentially predictive relationship known as 'training set'."
+  },
+  {
+    "Questions": "Training set",
+    "Answers": "A set of data is used to discover the potentially predictive relationship known as 'training set'."
+  },
+  {
+    "Questions": "Transfer learning",
+    "Answers": "Transfer learning make use of the knowledge gained while solving one problem and applying it to a different but related problem."
+  },
+  {
+    "Questions": "True Negative Rate",
+    "Answers": "Specificity computes the ratio of negative classes correctly detected. This metric gives how good the model is to recognize a negative class. TNR = tn / ( fp + tn ) . It is also called as specificity."
+  },
+  {
+    "Questions": "True negative(TN)",
+    "Answers": "Correct negative prediction"
+  },
+  {
+    "Questions": "True Positive Rate",
+    "Answers": "Recall gives us an idea about when it's actually yes, how often does it predict yes. It is also called as sensitivity or recall or hit rate. TPR = tp / ( tp + fn )"
+  },
+  {
+    "Questions": "True positive(TP)",
+    "Answers": "Correct positive prediction"
+  },
+  {
+    "Questions": "type of Hierarchical clustering",
+    "Answers": "There are two types of hierarchical cluster analysis strategies agglomerative clustering and divisive clustering"
+  },
+  {
+    "Questions": "Underfitting",
+    "Answers": "When the complexity of the model is too less for it to learn the data that is given as input, the model is said to “underfit”. In other words, the excessively simple model fails to “learn” the intricate patterns and underlying trends of the given dataset. Underfitting occurs for a model with low variance and high bias."
+  },
+  {
+    "Questions": "Variance",
+    "Answers": "Variance occurs when the model performs good on the trained dataset but does not do well on a dataset that it is not trained on, like a test dataset or validation dataset."
+  },
+  {
+    "Questions": "variance",
+    "Answers": "Variance occurs when the model performs good on the trained dataset but does not do well on a dataset that it is not trained on, like a test dataset or validation dataset."
+  },
+  {
+    "Questions": "Variance in statistics",
+    "Answers": "Variance measures how far each number in the set is from the mean."
+  },
+  {
+    "Questions": "What are Bayesian Networks",
+    "Answers": "Bayesian network is used to represent the graphical model for probability relationship among a set of variables."
+  },
+  {
+    "Questions": "what are the type of Hierarchical clustering",
+    "Answers": "There are two types of hierarchical cluster analysis strategies agglomerative clustering and divisive clustering"
+  },
+  {
+    "Questions": "False Positive Ratio",
+    "Answers": "It is the ratio of all negative classes predicted incorrectly, that is predicted as positive divided by all the classes actually as negative. It is also called as fall-out. FPR = FP / ( FP + TN )"
+  },
+  {
+    "Questions": "FPR",
+    "Answers": "It is the ratio of all negative classes predicted incorrectly, that is predicted as positive divided by all the classes actually as negative. It is also called as fall-out. FPR = FP / ( FP + TN )"
+  },
+  {
+    "Questions": "Selection Bias",
+    "Answers": "Selection bias is usually introduced as an error with the sampling and having a selection for analysis that is not properly randomized"
+  },
+  {
+    "Questions": "unsupervised learning",
+    "Answers": "Unsupervised learning is where you only have input data ( x ) and no corresponding output variable. It is called unsupervised learning because unlike supervised learning there is no labelled data that means no correct answer or no teacher."
+  }
+]
