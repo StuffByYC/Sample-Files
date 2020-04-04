@@ -1,12 +1,52 @@
 [
   {
-    "Name": "Yadnesh",
-    "Description": "Choudhary",
-    "Url": "https://www.stuffbyyc.com/"
+    "Name": "Chocolate cake",
+    "Description": "Chocolate cake is a cake flavored with melted chocolate, cocoa powder, or both.",
+    "Url": "https://www.stuffbyyc.com/post/chocolate-cake"
   },
   {
-    "Name": "google",
-    "Description": "asfdsdafdsf",
-    "Url": "https://www.google.co.in/"
+    "Name": "Chicken Spring Rolls",
+    "Description": "Chicken Spring Rolls is a popular Chinese cuisine recipe. Made with minced chicken and fresh noodles, this easy snack recipe can be served with cold beverages.",
+    "Url": "https://www.stuffbyyc.com/post/chinese-chicken-spring-rolls-recipe"
+  },
+  {
+    "Name": "Chicken Hakka Noodles",
+    "Description": "A flavourful dish of sizzling Hakka noodles tossed with shredded chicken, vegetables and spicy Chinese sauces in a street style, heavenly delight.",
+    "Url": "https://www.stuffbyyc.com/post/chicken-hakka-noodles-recipe"
+  },
+  {
+    "Name": "Pulao / Pulav",
+    "Description": "Pulao is a spicy rice dish prepared by cooking rice with various vegetables and spices.",
+    "Url": "https://www.stuffbyyc.com/post/pulao---pulav-recipe"
+  },
+  {
+    "Name": "Chocolate Chip Hazelnut Cookie",
+    "Description": "Some times accidents are good. The chocolate chip cookie was created by accident.",
+    "Url": "https://www.stuffbyyc.com/post/chocolate-chip-hazelnut-cookie-recipe"
+  },
+  {
+    "Name": "Banana Bread",
+    "Description": "Banana bread is a type of bread made from mashed bananas. It is often a moist, sweet, cake-like quick bread",
+    "Url": "https://www.stuffbyyc.com/post/banana-bread-recipe"
+  },
+  {
+    "Name": "Nutella Chocolate Truffles",
+    "Description": "When its nutella you know you will love it.",
+    "Url": "https://www.stuffbyyc.com/post/nutella-chocolate-truffles-recipe"
+  },
+  {
+    "Name": "Butter Chicken",
+    "Description": "Butter Chicken is one of the most popular curries at any Indian restaurant around the world. Aromatic golden chicken pieces in an incredible creamy curry sauce.",
+    "Url": "https://www.stuffbyyc.com/post/butter-chicken-recipe"
+  },
+  {
+    "Name": "Paneer tikka masala",
+    "Description": "Paneer tikka masala is an Indian dish of marinated paneer cheese served in a spiced gravy.",
+    "Url": "https://www.stuffbyyc.com/post/paneer-tikka-masala-recipe"
+  },
+  {
+    "Name": "Kaju masala",
+    "Description": "Kaju Curry is a deliciously creamy, rich, royal and festive curry preparation",
+    "Url": "https://www.stuffbyyc.com/post/kaju-masala-recipe"
   }
 ]
